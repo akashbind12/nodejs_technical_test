@@ -6,6 +6,11 @@
    ```bash
    git clone <repository_url>
    cd <repository_name>
+   npm i 
+
+   add env file :
+   
+   npm start
 
 
 
